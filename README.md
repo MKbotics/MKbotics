@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mk!
 
-🎯 I'm a 15 y/o tech enthusiast who builds cool stuff with ESP32, Arduino, Python, and AI.
+🎯 I'm a 15 y/o tech enthusiast and hobbyist who builds cool stuff with ESP32, Arduino, Python, and AI.
 
 💡 I turn ideas into real working robots, smart systems, and IoT gadgets.  
 🔧 Most of my builds combine microcontrollers, sensors, automation, and a little creativity.
@@ -25,10 +25,11 @@
 - analog electronics and use of basic ICs and analog components like transistors, thermistors
 
 ## 📫 Reach Me
-Email: mk.email@gmail.com *(replace with your real email)*  
+Email: mkg80057@gmail.com 
 GitHub: [@MKbotics](https://github.com/MKbotics)
 
 ---
 
 > 🚧 This profile is a work in progress — like me. I build, break, and learn.
-IMP: i am still very poor at coding, so i use ai tools and open source codes for it
+## IMP: 
+i am still very poor at coding, so i use ai tools and open source codes for it, i learn by myself rather than online courses
